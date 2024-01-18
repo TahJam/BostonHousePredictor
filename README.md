@@ -17,7 +17,6 @@ The `boston_valuation` module is designed to predict house prices in Boston usin
 - **RAD:** Index of accessibility to radial highways
 - **TAX:** Full-value property-tax rate per $10,000
 - **PTRATIO:** Pupil-teacher ratio by town
-- **B:** 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 - **LSTAT:** % lower status of the population
 
 ## Target Variable
